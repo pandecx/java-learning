@@ -12,7 +12,7 @@ class Millionare extends Man{
     }
 }
 
-public class MethodOverRideDemo {
+public class  MethodOverRideDemo {
     public static void main(String[] args){
         Man m=new Millionare();
         m.pay(); //Method Overrided

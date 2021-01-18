@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1077366d-c1c3-477b-a9e9-5c3f5e3ee8e9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chetan/java/HasARelationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chetan/java/MethodOverLoadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chetan/java/MethodOverRideDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chetan/java/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chetan/java/EncapsulationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chetan/java/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chetan/java/MethodsInInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chetan/java/SuperDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chetan/java/MethodOverRideDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chetan/java/MethodOverRideDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,56 +20,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MultiLevelInherDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chetan/java/MultiLevelInherDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MethodOverRideDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MethodOverRideDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chetan/java/MethodOverRideDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="266">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
               <folding>
                 <element signature="e#51#52#0" expanded="true" />
-                <element signature="e#72#73#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EdurekaJava.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EdurekaJava.iml">
+      <file leaf-file-name="AbstractDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chetan/java/AbstractDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="247">
+              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HasARelationDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chetan/java/HasARelationDemo.java">
+      <file leaf-file-name="EncapsulationDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chetan/java/EncapsulationDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="386">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MethodOverLoadDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chetan/java/MethodOverLoadDemo.java">
+      <file leaf-file-name="InterfaceDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chetan/java/InterfaceDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="386">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
               <folding>
-                <element signature="e#71#72#0" expanded="true" />
-                <element signature="e#95#96#0" expanded="true" />
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MethodsInInterface.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chetan/java/MethodsInInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <folding>
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,7 +118,12 @@
         <option value="$PROJECT_DIR$/src/com/chetan/java/MultiLevelInherDemo.java" />
         <option value="$PROJECT_DIR$/src/com/chetan/java/HasARelationDemo.java" />
         <option value="$PROJECT_DIR$/src/com/chetan/java/MethodOverLoadDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/chetan/java/SuperDemo.java" />
         <option value="$PROJECT_DIR$/src/com/chetan/java/MethodOverRideDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/chetan/java/AbstractDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/chetan/java/EncapsulationDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/chetan/java/InterfaceDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/chetan/java/MethodsInInterface.java" />
       </list>
     </option>
   </component>
@@ -116,7 +136,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="width" value="910" />
     <option name="height" value="445" />
@@ -176,9 +196,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodOverRideDemo">
-    <configuration name="HasARelationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chetan.java.HasARelationDemo" />
+  <component name="RunManager" selected="Application.MethodsInInterface">
+    <configuration name="AbstractDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chetan.java.AbstractDemo" />
       <module name="EdurekaJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -188,8 +208,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="HierarchialInherDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chetan.java.HierarchialInherDemo" />
+    <configuration name="EncapsulationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chetan.java.EncapsulationDemo" />
       <module name="EdurekaJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -199,8 +219,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MethodOverLoadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chetan.java.MethodOverLoadDemo" />
+    <configuration name="InterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chetan.java.InterfaceDemo" />
       <module name="EdurekaJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -210,8 +230,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MethodOverRideDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chetan.java.MethodOverRideDemo" />
+    <configuration name="MethodsInInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chetan.java.MethodsInInterface" />
       <module name="EdurekaJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -221,8 +241,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MultiLevelInherDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chetan.java.MultiLevelInherDemo" />
+    <configuration name="SuperDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chetan.java.SuperDemo" />
       <module name="EdurekaJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -274,19 +294,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.HierarchialInherDemo" />
-      <item itemvalue="Application.MultiLevelInherDemo" />
-      <item itemvalue="Application.HasARelationDemo" />
-      <item itemvalue="Application.MethodOverLoadDemo" />
-      <item itemvalue="Application.MethodOverRideDemo" />
+      <item itemvalue="Application.SuperDemo" />
+      <item itemvalue="Application.AbstractDemo" />
+      <item itemvalue="Application.EncapsulationDemo" />
+      <item itemvalue="Application.InterfaceDemo" />
+      <item itemvalue="Application.MethodsInInterface" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodOverRideDemo" />
-        <item itemvalue="Application.MethodOverLoadDemo" />
-        <item itemvalue="Application.HasARelationDemo" />
-        <item itemvalue="Application.MultiLevelInherDemo" />
-        <item itemvalue="Application.HierarchialInherDemo" />
+        <item itemvalue="Application.MethodsInInterface" />
+        <item itemvalue="Application.InterfaceDemo" />
+        <item itemvalue="Application.EncapsulationDemo" />
+        <item itemvalue="Application.AbstractDemo" />
+        <item itemvalue="Application.SuperDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -301,12 +321,12 @@
       <option name="presentableId" value="Default" />
       <updated>1610796375226</updated>
       <workItem from="1610796376557" duration="8767000" />
-      <workItem from="1610874616932" duration="7438000" />
+      <workItem from="1610874616932" duration="12427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16205000" />
+    <option name="totallyTimeSpent" value="21194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -375,13 +395,6 @@
             <element signature="e#89#90#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chetan/java/VariableTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -458,13 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chetan/java/HasARelationDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chetan/java/MethodOverLoadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -485,13 +491,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chetan/java/SuperDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="e#62#63#0" expanded="true" />
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chetan/java/VariableTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chetan/java/HasARelationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chetan/java/MethodOverRideDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="266">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           <folding>
             <element signature="e#51#52#0" expanded="true" />
-            <element signature="e#72#73#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chetan/java/AbstractDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chetan/java/EncapsulationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chetan/java/InterfaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chetan/java/MethodsInInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
           </folding>
         </state>
       </provider>
