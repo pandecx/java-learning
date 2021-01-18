@@ -1,19 +1,18 @@
 package com.chetan.java;
 
-class Manager{
-    int salary=100000;
-}
-
-class Employee extends Manager{
+class Employee extends Manager {
     int id=1;
-    //String name;
-    int empSal=25000;
+
+    //String name;25000;
 
 }
 public class InheritanceDemo {
     public static void main(String[] args){
         Employee emp=new Employee();
-        System.out.println("Employee with id "+emp.id+" gets salary of "+emp.empSal);
-        System.out.println("Manager salary is "+emp.salary);
+        emp.salary=1000;
+        Manager mng=new Manager();
+        mng.salary=20000;
+        System.out.println("Employee with id "+emp.id+" gets salary of "+emp.salary);
+        System.out.println("Manager salary is "+mng.salary);
     }
 }
