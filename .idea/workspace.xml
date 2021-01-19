@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1077366d-c1c3-477b-a9e9-5c3f5e3ee8e9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/Vehicle.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chetan/java/ExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chetan/java/RegexDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chetan/javaadvanced/InputOutputDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chetan/javaadvanced/JDBCDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EdurekaJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EdurekaJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chetan/java/MethodsInInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chetan/java/MethodsInInterface.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +42,8 @@
       <file leaf-file-name="InputOutputDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chetan/javaadvanced/InputOutputDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="-27">
+              <caret line="12" column="110" selection-start-line="12" selection-start-column="110" selection-end-line="12" selection-end-column="110" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Vehicle.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/Vehicle.txt">
+      <file leaf-file-name="JDBCDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chetan/javaadvanced/JDBCDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="228">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -67,6 +63,15 @@
       <file leaf-file-name="Employee.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/Employee.txt">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Vehicle.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/Vehicle.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -108,8 +113,9 @@
         <option value="$PROJECT_DIR$/src/com/chetan/java/Manager.java" />
         <option value="$PROJECT_DIR$/src/com/chetan/java/RegexDemo.java" />
         <option value="$PROJECT_DIR$/src/com/chetan/java/ExceptionDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/chetan/javaadvanced/InputOutputDemo.java" />
         <option value="$PROJECT_DIR$/resources/Vehicle.txt" />
+        <option value="$PROJECT_DIR$/src/com/chetan/javaadvanced/InputOutputDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/chetan/javaadvanced/JDBCDemo.java" />
       </list>
     </option>
   </component>
@@ -143,16 +149,6 @@
               <item name="java-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-learning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -162,11 +158,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -181,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InputOutputDemo">
+  <component name="RunManager" selected="Application.JDBCDemo">
     <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chetan.java.ExceptionDemo" />
       <module name="EdurekaJava" />
@@ -204,13 +206,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="InterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chetan.java.InterfaceDemo" />
+    <configuration name="JDBCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chetan.javaadvanced.JDBCDemo" />
       <module name="EdurekaJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chetan.java.*" />
+          <option name="PATTERN" value="com.chetan.javaadvanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,19 +281,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.InterfaceDemo" />
       <item itemvalue="Application.MethodsInInterface" />
       <item itemvalue="Application.RegexDemo" />
       <item itemvalue="Application.ExceptionDemo" />
       <item itemvalue="Application.InputOutputDemo" />
+      <item itemvalue="Application.JDBCDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JDBCDemo" />
         <item itemvalue="Application.InputOutputDemo" />
         <item itemvalue="Application.ExceptionDemo" />
         <item itemvalue="Application.RegexDemo" />
         <item itemvalue="Application.MethodsInInterface" />
-        <item itemvalue="Application.InterfaceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -306,12 +308,12 @@
       <option name="presentableId" value="Default" />
       <updated>1610796375226</updated>
       <workItem from="1610796376557" duration="8767000" />
-      <workItem from="1610874616932" duration="18605000" />
+      <workItem from="1610874616932" duration="21747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27372000" />
+    <option name="totallyTimeSpent" value="30514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -333,6 +335,7 @@
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -345,7 +348,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,22 +573,105 @@
     <entry file="file://$PROJECT_DIR$/resources/Employee.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Vehicle.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chetan/javaadvanced/InputOutputDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="-27">
+          <caret line="12" column="110" selection-start-line="12" selection-start-column="110" selection-end-line="12" selection-end-column="110" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/Vehicle.txt">
+    <entry file="file://$PROJECT_DIR$/src/com/chetan/javaadvanced/JDBCDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="228">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql:mysql-connector-java:8.0.17</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>EdurekaJava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
