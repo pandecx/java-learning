@@ -3,11 +3,11 @@ package com.chetan.java;
 interface IntMethods{
     default void say(){
         System.out.println("Default Method Implementation");
-        sayHello();
+        //sayHello();
     }
-    private void sayHello(){
+    /*private void sayHello(){
         System.out.println("Private Method Implementation");
-    }
+    }*/
 }
 
 public class MethodsInInterface implements IntMethods {
