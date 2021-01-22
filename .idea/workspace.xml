@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1077366d-c1c3-477b-a9e9-5c3f5e3ee8e9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chetan/javaadvanced/MultiThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chetan/javaadvanced/MultiThreadRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chetan/javaadvanced/UserInputDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chetan/javaadvanced/ThreadSyncDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EdurekaJava/com/chetan/javaadvanced/MultiThreadRunnable$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EdurekaJava/com/chetan/javaadvanced/MultiThreadRunnable$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EdurekaJava/com/chetan/javaadvanced/MultiThreadRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EdurekaJava/com/chetan/javaadvanced/MultiThreadRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chetan/javaadvanced/MultiThreadRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chetan/javaadvanced/MultiThreadRunnable.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +27,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MultiThreadRunnable.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MultiThreadRunnable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chetan/javaadvanced/MultiThreadRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="177">
+              <caret line="35" column="52" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="35" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadSyncDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chetan/javaadvanced/ThreadSyncDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="112" selection-start-line="4" selection-start-column="112" selection-end-line="4" selection-end-column="112" />
+              <folding>
+                <element signature="e#117#118#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,6 +93,7 @@
         <option value="$PROJECT_DIR$/src/com/chetan/javaadvanced/UserInputDemo.java" />
         <option value="$PROJECT_DIR$/src/com/chetan/javaadvanced/MultiThreadDemo.java" />
         <option value="$PROJECT_DIR$/src/com/chetan/javaadvanced/MultiThreadRunnable.java" />
+        <option value="$PROJECT_DIR$/src/com/chetan/javaadvanced/ThreadSyncDemo.java" />
       </list>
     </option>
   </component>
@@ -173,18 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultiThreadRunnable">
-    <configuration name="InputOutputDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chetan.javaadvanced.InputOutputDemo" />
-      <module name="EdurekaJava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chetan.javaadvanced.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.ThreadSyncDemo">
     <configuration name="JDBCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chetan.javaadvanced.JDBCDemo" />
       <module name="EdurekaJava" />
@@ -209,6 +212,17 @@
     </configuration>
     <configuration name="MultiThreadRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chetan.javaadvanced.MultiThreadRunnable" />
+      <module name="EdurekaJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chetan.javaadvanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ThreadSyncDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chetan.javaadvanced.ThreadSyncDemo" />
       <module name="EdurekaJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -271,19 +285,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.InputOutputDemo" />
       <item itemvalue="Application.JDBCDemo" />
       <item itemvalue="Application.UserInputDemo" />
       <item itemvalue="Application.MultiThreadDemo" />
       <item itemvalue="Application.MultiThreadRunnable" />
+      <item itemvalue="Application.ThreadSyncDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadSyncDemo" />
         <item itemvalue="Application.MultiThreadRunnable" />
         <item itemvalue="Application.MultiThreadDemo" />
         <item itemvalue="Application.UserInputDemo" />
         <item itemvalue="Application.JDBCDemo" />
-        <item itemvalue="Application.InputOutputDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -298,12 +312,12 @@
       <option name="presentableId" value="Default" />
       <updated>1610796375226</updated>
       <workItem from="1610796376557" duration="8767000" />
-      <workItem from="1610874616932" duration="26687000" />
+      <workItem from="1610874616932" duration="29329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35454000" />
+    <option name="totallyTimeSpent" value="38096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -606,8 +620,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chetan/javaadvanced/MultiThreadRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="177">
+          <caret line="35" column="52" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="35" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chetan/javaadvanced/ThreadSyncDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="112" selection-start-line="4" selection-start-column="112" selection-end-line="4" selection-end-column="112" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
